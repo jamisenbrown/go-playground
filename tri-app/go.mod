@@ -1,4 +1,4 @@
-module github.com/spf13/tri
+module github.com/jamisenbrown/tri
 
 go 1.21.3
 
